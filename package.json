@@ -1,0 +1,17 @@
+{
+  "name": "do-your-timesheet",
+  "version": "1.0.0",
+  "description": "do timesheet for you whether in xlsx or pdf.",
+  "main": "index.js",
+  "repository": "https://github.com/v-rk1t/do-your-timesheet.git",
+  "author": "v-rk1t",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dayjs": "^1.11.13",
+    "pdfmake": "^0.2.20"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
